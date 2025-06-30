@@ -30,7 +30,7 @@
 <div align="center"><img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /></div>
 
 ### ✍️ Random Dev Quote
-![] <div align="center">(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
+<div align="center">https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=belal1908&limit=5&theme=radical&combine_all_yearly_contributions=true)
