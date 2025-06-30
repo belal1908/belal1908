@@ -75,11 +75,8 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/belal1908/belal1908/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+## 🐍 Contribution Snake
+<div align="center"><img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /></div>
 
 ---
 
