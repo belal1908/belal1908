@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Belal</h1>
+<h3 align="center">I make websites for Fun 😄</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00bfff&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Cloud+Certified;AI+and+DSA+Enthusiast" alt="Typing animation">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=belal1908&label=Profile%20views&color=0e75b6&style=flat" alt="belal1908" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on an Open Source AI project. <br>👯 I’m looking to collaborate on full-stack web apps, desktop automation tools, or AI-integrated productivity apps.  <br>🤝 I’m looking for help with Electron js performance optimization and advanced MCP integrations.  <br>🌱 I’m currently learning Electron js, N8N , and Data Analysis.  <br>💬 Ask me about Blazor, Node.js, MongoDB, or building scalable side projects.  <br>⚡ Fun fact: I also freelance as a Web Designer using Framer and Spline!
 
