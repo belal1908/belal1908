@@ -27,10 +27,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=belal1908&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐍 Contribution Snake
-(<div align="center"><img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /></div>)
+<div align="center"><img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /></div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![] <div align="center">(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=belal1908&limit=5&theme=radical&combine_all_yearly_contributions=true)
