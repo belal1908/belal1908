@@ -102,6 +102,3 @@
   </a>
 </p>
 
-<p align="center">
-  <sub><i>Made with ❤️ using <a href="https://gprm.itsvg.in" target="_blank">GPRM</a></i></sub>
-</p>
